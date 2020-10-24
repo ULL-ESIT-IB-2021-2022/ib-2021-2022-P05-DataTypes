@@ -97,8 +97,10 @@ Finalmente escriba un único fichero Makefile que permita compilar y generar los
 correspondientes a los 4 ejercicios que se proponen en este documento.
 
 ### Referencias
+[Guía de Estilo de Google para C++](https://google.github.io/styleguide/cppguide.html)
+[Stackoverflow](https://stackoverflow.com/)
+[C++ Tutor](http://pythontutor.com/cpp.html#mode=edit)
 [A Simple Makefile Tutorial](https://cs.colby.edu/maxwell/courses/tutorials/maketutor/)
-
 
 
 
