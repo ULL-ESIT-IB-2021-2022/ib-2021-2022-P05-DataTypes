@@ -76,7 +76,13 @@ particularmente la sección "Epsilon comparisons".
 Trate de incorporar en su programa `arithmetic_operators.cc` lo que haya aprendido leyendo las referencias
 anteriores.
 
-5. [make](https://en.wikipedia.org/wiki/Make_(software)) es una herramienta que permite automatizar el proceso
+5. [C++ Tutor](http://pythontutor.com/cpp.html#mode=edit) es una herramienta que a través de una interfaz web
+permite "visualizar" la ejecución de programas escritos en C++ (también tiene soporte para otros lenguajes).
+Experimente con la herramienta y ejecute con ella los programas que haya estudiado en clase, así como todos
+los programas correspondientes a los ejercicios anteriores.
+Al usar la herramienta, preste especial atención a la ejecución del programa `references.cc`
+
+6. [make](https://en.wikipedia.org/wiki/Make_(software)) es una herramienta que permite automatizar el proceso
 de desarrollo de software.
 La función de make es determinar automáticamente qué ficheros o módulos de un programa necesitan ser recompilados, 
 y ejecutar los comandos necesarios para realizar esa tarea.
@@ -90,16 +96,9 @@ de C++ compila igualmente el código en C (C++ es un superconjunto de C).
 Finalmente escriba un único fichero Makefile que permita compilar y generar los programas ejecutables
 correspondientes a los 4 ejercicios que se proponen en este documento.
 
-
-
-
-
-
-
-
 ### Referencias
-[Initiation to Algorithmics with
-Scratch](https://drive.google.com/file/d/1DIU-bqgAurT-F9Ltnlam9QYWaZVeLlRJ/view?usp=sharing) Benoit Gaudou.
+[A Simple Makefile Tutorial](https://cs.colby.edu/maxwell/courses/tutorials/maketutor/)
+
 
 
 
