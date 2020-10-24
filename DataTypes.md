@@ -76,7 +76,7 @@ particularmente la sección "Epsilon comparisons".
 Trate de incorporar en su programa `arithmetic_operators.cc` lo que haya aprendido leyendo las referencias
 anteriores.
 
-5. [make](https://en.wikipedia.org/wiki/Make_(software) es una herramienta que permite automatizar el proceso
+5. [make](https://en.wikipedia.org/wiki/Make_(software)) es una herramienta que permite automatizar el proceso
 de desarrollo de software.
 La función de make es determinar automáticamente qué ficheros o módulos de un programa necesitan ser recompilados, 
 y ejecutar los comandos necesarios para realizar esa tarea.
