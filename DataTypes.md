@@ -43,17 +43,19 @@ para cada uno de los tipos de datos del lenguaje.
 Haga que las líneas se muestren comenzando con los tipos que utilizan menos cantidad de memoria y finalizando
 con los que ocupan mayor cantidad.
 
-3. Escriba un programa `references.cc` que declare cuatro variables de diferentes tipos e inicialícelas
+2. Escriba un programa `references.cc` que declare cuatro variables de diferentes tipos y las inicialice
 utilizando los diferentes mecanismos de inicialización de variables que suministra el lenguaje.
-Declare asimismo otras tantas referencias a las variables anteriores e imprima en pantalla los valores de esas
+El programa declarará asimismo otras tantas referencias a las variables anteriores e imprimirá en pantalla los valores de esas
 referencias. 
 ¿Son iguales los valores de las referencias que los de las variables referenciadas?
 
-4. Escriba un programa `boolean_operators.cc` que imprima en pantalla la
+3. Escriba un programa `boolean_operators.cc` que imprima en pantalla la
 [tabla de verdad](https://en.wikipedia.org/wiki/Truth_table#Truth_table_for_all_binary_logical_operators)
 de los operadores lógicos (and, or, not) de C++.
+El programa deberá utilizar un par de variables booleanas y mostrar el resultado de operar ambas variables con
+todos sus posibles valores y con cada uno de los operadores lógicos.
 
-5. Escriba un programa `arithmetic_operators.cc` que declare e inicialice variables de tipos aritméticos e
+4. Escriba un programa `arithmetic_operators.cc` que declare e inicialice variables de tipos aritméticos e
 imprima en pantalla el resultado de operar esas variables con todos los operadores que pueda utilizar con
 ellas.
 Utilice operadores aritméticos y de comparación.
@@ -61,6 +63,8 @@ El programa imprimirá en pantalla líneas como la siguiente:
 ```
 El resultado de operar 7 % 3 es 1
 ```
+Para cada uno de los operadores considerados.
+
 Estudie en [Stackoverflow](https://stackoverflow.com/) las respuestas a la entrada 
 [c++ comparing two floating point values](https://stackoverflow.com/questions/5064377/c-comparing-two-floating-point-values).
 Stackoverflow es uno de los mejores foros para la resolución de dudas sobre programación.
@@ -69,7 +73,10 @@ Revise asimismo el artículo
 [Comparing Floating Point Numbers](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/), 
 particularmente la sección "Epsilon comparisons".
 
-6.- [make](https://en.wikipedia.org/wiki/Make_(software) es una herramienta que permite automatizar el proceso
+Trate de incorporar en su programa `arithmetic_operators.cc` lo que haya aprendido leyendo las referencias
+anteriores.
+
+5. [make](https://en.wikipedia.org/wiki/Make_(software) es una herramienta que permite automatizar el proceso
 de desarrollo de software.
 La función de make es determinar automáticamente qué ficheros o módulos de un programa necesitan ser recompilados, 
 y ejecutar los comandos necesarios para realizar esa tarea.
@@ -80,8 +87,8 @@ Estudie asimismo el tutorial [A Simple Makefile Tutorial](https://cs.colby.edu/m
 En ese tutorial se utiliza el compilador `gcc`, pero puede Ud. sustituirlo por `g++` puesto que el compilador
 de C++ compila igualmente el código en C (C++ es un superconjunto de C).
 
-Finalmente escriba un fichero Makefile que permita compilar y generar los programas ejecutables
-correspondientes a los 5 ejercicios que se proponen en este documento.
+Finalmente escriba un único fichero Makefile que permita compilar y generar los programas ejecutables
+correspondientes a los 4 ejercicios que se proponen en este documento.
 
 
 
