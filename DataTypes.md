@@ -19,9 +19,11 @@ que se tendrán en cuenta a la hora de evaluar esta práctica:
   sus programas
 
 ### La Guía de Estilo de Google para C++
-[Esta guía](https://google.github.io/styleguide/cppguide.html) será un documento de referencia para todos los
-programas que se desarrollen en la asignatura, de modo que debe Ud. comenzar a familiarizarse con ella.
-Por ahora basta con que estudie la sección [Naming](https://google.github.io/styleguide/cppguide.html#Naming)
+[Esta guía](https://google.github.io/styleguide/cppguide.html) es un documento de referencia para todos los
+programas que se desarrollen en la asignatura, de modo que debe Ud. profundizar en su estudio.
+
+
+Comience por estudiar la sección [Naming](https://google.github.io/styleguide/cppguide.html#Naming)
 y conozca las reglas para el nombrado de ficheros ([File Names](https://google.github.io/styleguide/cppguide.html#File_Names)), 
 variables ([Variable Names](https://google.github.io/styleguide/cppguide.html#Variable_Names)) y constantes
 ([Constant Names](https://google.github.io/styleguide/cppguide.html#Constant_Names)).
