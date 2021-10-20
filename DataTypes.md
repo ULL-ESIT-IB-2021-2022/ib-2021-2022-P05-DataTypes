@@ -22,11 +22,28 @@ que se tendrán en cuenta a la hora de evaluar esta práctica:
 [Esta guía](https://google.github.io/styleguide/cppguide.html) es un documento de referencia para todos los
 programas que se desarrollen en la asignatura, de modo que debe Ud. profundizar en su estudio.
 
+Estudie la sección de nominación 
+[Naming](https://google.github.io/styleguide/cppguide.html#Naming)
+y dentro de ella estudie las reglas de nombrado de ficheros, tipos, variables y constantes.
+En el futuro deberá estudiar las reglas de nombrado de otras entidades que aún no se han estudiado en la asignatura.
 
-Comience por estudiar la sección [Naming](https://google.github.io/styleguide/cppguide.html#Naming)
-y conozca las reglas para el nombrado de ficheros ([File Names](https://google.github.io/styleguide/cppguide.html#File_Names)), 
-variables ([Variable Names](https://google.github.io/styleguide/cppguide.html#Variable_Names)) y constantes
-([Constant Names](https://google.github.io/styleguide/cppguide.html#Constant_Names)).
+En la sección de formato del código
+[Formatting](https://google.github.io/styleguide/cppguide.html#Formatting).
+estudie los apartados
+[Spaces vs Tabs](https://google.github.io/styleguide/cppguide.html#Spaces_vs._Tabs),
+[Conditionals](https://google.github.io/styleguide/cppguide.html#Conditionals),
+[Loops and Switch Statements](https://google.github.io/styleguide/cppguide.html#Loops_and_Switch_Statements),
+[Boolean Expressions](https://google.github.io/styleguide/cppguide.html#Boolean_Expressions),
+[Horizontal Whitespace](https://google.github.io/styleguide/cppguide.html#Horizontal_Whitespace) y
+[Vertical Whitespace](https://google.github.io/styleguide/cppguide.html#Vertical_Whitespace).
+
+En la sección dedicada a los 
+[Comentarios](https://google.github.io/styleguide/cppguide.html#Comments)
+estudie los apartados
+[Comment Style](https://google.github.io/styleguide/cppguide.html#Comment_Style),
+[File Comments](https://google.github.io/styleguide/cppguide.html#File_Comments),
+[Variable Comments](https://google.github.io/styleguide/cppguide.html#Variable_Comments) y
+[Implementation Comments](https://google.github.io/styleguide/cppguide.html#Implementation_Comments).
 
 Ponga en práctica esas reglas en todos los programas que desarrolle de ahora en adelante.
 De forma paulatina se irá estudiando con mayor profundidad esa guía así como poniendo en práctica en los
