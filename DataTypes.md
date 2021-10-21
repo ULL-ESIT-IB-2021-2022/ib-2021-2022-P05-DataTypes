@@ -1,4 +1,6 @@
-# Práctica 05. Tipos de Datos. Referencias. La utilidad Make
+# Práctica 05. Tipos de Datos. Referencias. Expresiones. La utilidad Make
+
+# Factor de ponderación: 5
 
 ### Objetivos
 Los objetivos de esta práctica son que el alumnado:
@@ -95,13 +97,16 @@ particularmente la sección "Epsilon comparisons".
 Trate de incorporar en su programa `arithmetic_operators.cc` lo que haya aprendido leyendo las referencias
 anteriores.
 
-5. [C++ Tutor](http://pythontutor.com/cpp.html#mode=edit) es una herramienta que a través de una interfaz web
+5. Escriba un programa `short_cirtuit.cc` que evidencie que los operadores lógicos and y or (`&&` y `||`) de C++ utilizan
+[evaluación de circuito corto](https://stackoverflow.com/questions/5211961/how-does-c-handle-short-circuit-evaluation)
+
+6. [C++ Tutor](http://pythontutor.com/cpp.html#mode=edit) es una herramienta que a través de una interfaz web
 permite "visualizar" la ejecución de programas escritos en C++ (también tiene soporte para otros lenguajes).
 Experimente con la herramienta y ejecute con ella los programas que haya estudiado en clase, así como todos
 los programas correspondientes a los ejercicios anteriores.
 Al usar la herramienta, preste especial atención a la ejecución del programa `references.cc`
 
-6. [make](https://en.wikipedia.org/wiki/Make_(software)) es una herramienta que permite automatizar el proceso
+7. [make](https://en.wikipedia.org/wiki/Make_(software)) es una herramienta que permite automatizar el proceso
 de desarrollo de software.
 La función de make es determinar automáticamente qué ficheros o módulos de un programa necesitan ser recompilados, 
 y ejecutar los comandos necesarios para realizar esa tarea.
