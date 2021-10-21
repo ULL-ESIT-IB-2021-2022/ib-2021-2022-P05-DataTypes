@@ -1,4 +1,4 @@
-# Práctica 05. Tipos de Datos. Referencias. Expresiones. La utilidad Make
+# Práctica 05. Estilo. Referencias. Expresiones. La utilidad Make
 
 # Factor de ponderación: 5
 
@@ -7,17 +7,19 @@ Los objetivos de esta práctica son que el alumnado:
 
 * Sea capaz de desarrollar programas simples en C++
 * Conozca los tipos básicos de datos en C++, así como los fundamentos de su representación en memoria
+* Profundice en el estudio de los diferentes tipos de expresiones: aritméticas, booleanas, etc.
+* Ponga en práctica las recomendaciones de la Guía de estilo de Google para C++.
 * Sea capaz de automatizar el proceso de compilación utilizando la herramienta `make`
 
 
 ### Rúbrica de evaluacion de esta práctica
 Se señalan a continuación los aspectos más relevantes (la lista no es exhaustiva)
-que se tendrán en cuenta a la hora de evaluar esta práctica:
-* El alumnado ha de acreditar que es capaz de realizar programas simples en C++ similares a los que se
-  proponen en este documento.
-* El alumnado ha de acreditar que ha realizado todos los ejercicios propuestos, así como ser capaz de
-  desarrollar otros similares
-* Ha de acreditar que es capaz de escribir un fichero Makefile para automatizar el proceso de compilación de
+que se tendrán en cuenta a la hora de evaluar esta práctica.
+El alumnado ha de acreditar que:
+* Ha realizado todos los ejercicios propuestos, así como ser capaz de
+  desarrollar otros programas simples similares a los que se proponen en este documento.
+* Todos los programas que ha escrito son conformes a la Guía de Estilo propuesta.
+* Es capaz de escribir un fichero Makefile para automatizar el proceso de compilación de
   sus programas
 
 ### La Guía de Estilo de Google para C++
@@ -99,7 +101,8 @@ anteriores.
 
 5. Escriba un programa `short_cirtuit.cc` que evidencie que los operadores lógicos and y or (`&&` y `||`) de C++ utilizan
 [evaluación de circuito corto](https://stackoverflow.com/questions/5211961/how-does-c-handle-short-circuit-evaluation).
-En una disyunción lógica (or) el segundo operando no se evaluará si el primero es cierto (true), puesto que el resultado de esa evaluación no cambiaría el resultado de la disyunción, que será cierta. (Análogamente con una conjunción, and).
+En una disyunción lógica (or) el segundo operando no se evaluará si el primero es cierto (true), puesto que el resultado 
+de esa evaluación no cambiaría el resultado de la disyunción, que será cierta. (Análogamente con una conjunción, and).
 
 6. [C++ Tutor](http://pythontutor.com/cpp.html#mode=edit) es una herramienta que a través de una interfaz web
 permite "visualizar" la ejecución de programas escritos en C++ (también tiene soporte para otros lenguajes).
