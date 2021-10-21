@@ -98,7 +98,8 @@ Trate de incorporar en su programa `arithmetic_operators.cc` lo que haya aprendi
 anteriores.
 
 5. Escriba un programa `short_cirtuit.cc` que evidencie que los operadores lógicos and y or (`&&` y `||`) de C++ utilizan
-[evaluación de circuito corto](https://stackoverflow.com/questions/5211961/how-does-c-handle-short-circuit-evaluation)
+[evaluación de circuito corto](https://stackoverflow.com/questions/5211961/how-does-c-handle-short-circuit-evaluation).
+En una disyunción lógica (or) el segundo operando no se evaluará si el primero es cierto (true), puesto que el resultado de esa evaluación no cambiaría el resultado de la disyunción, que será cierta. (Análogamente con una conjunción, and).
 
 6. [C++ Tutor](http://pythontutor.com/cpp.html#mode=edit) es una herramienta que a través de una interfaz web
 permite "visualizar" la ejecución de programas escritos en C++ (también tiene soporte para otros lenguajes).
