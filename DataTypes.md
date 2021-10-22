@@ -114,10 +114,15 @@ Al usar la herramienta, preste especial atención a la ejecución del programa `
 de desarrollo de software.
 La función de make es determinar automáticamente qué ficheros o módulos de un programa necesitan ser recompilados, 
 y ejecutar los comandos necesarios para realizar esa tarea.
-Estudie en las transparencias de clase 
-[Make utility](https://docs.google.com/presentation/d/167rBvVIUrPAY8-7ieHnlXJ5hSstGfUIX2myyu5drCVA/edit?usp=sharing) 
+Este primer 
+[Makefile Tutorial](https://makefiletutorial.com/)
+le puede servir como primera toma de contacto con la utilidad make.
+Estudie a continuación las transparencias  
+[Automation of the Build process: the `make` utility](https://docs.google.com/presentation/d/1W7tgsr5FtCqr5zBIY8UVF3RA4ongBOMgH6kddmf0cGQ/edit?usp=sharing) 
 los fundamentos de la utilidad.
-Estudie asimismo el tutorial [A Simple Makefile Tutorial](https://cs.colby.edu/maxwell/courses/tutorials/maketutor/).
+Por último, el tutorial 
+[A Simple Makefile Tutorial](https://cs.colby.edu/maxwell/courses/tutorials/maketutor/)
+incluye ejemplos simples desarrollados de forma incremental que pueden ayudarle a entender el uso de `make`.
 En ese tutorial se utiliza el compilador `gcc`, pero puede Ud. sustituirlo por `g++` puesto que el compilador
 de C++ compila igualmente el código en C (C++ es un superconjunto de C).
 
