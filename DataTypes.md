@@ -106,9 +106,9 @@ de esa evaluación no cambiaría el resultado de la disyunción, que será ciert
 
 6. [C++ Tutor](http://pythontutor.com/cpp.html#mode=edit) es una herramienta que a través de una interfaz web
 permite "visualizar" la ejecución de programas escritos en C++ (también tiene soporte para otros lenguajes).
-Experimente con la herramienta y ejecute con ella los programas que haya estudiado en clase, así como todos
+Experimente con la herramienta y ejecute con ella (visualice la ejecución) los programas que haya estudiado en clase, así como todos
 los programas correspondientes a los ejercicios anteriores.
-Al usar la herramienta, preste especial atención a la ejecución del programa `references.cc`
+Al usar la herramienta, preste especial atención a la ejecución del programa `references.cc`.
 
 7. [make](https://en.wikipedia.org/wiki/Make_(software)) es una herramienta que permite automatizar el proceso
 de desarrollo de software.
@@ -124,10 +124,10 @@ Por último, el tutorial
 [A Simple Makefile Tutorial](https://cs.colby.edu/maxwell/courses/tutorials/maketutor/)
 incluye ejemplos simples desarrollados de forma incremental que pueden ayudarle a entender el uso de `make`.
 En ese tutorial se utiliza el compilador `gcc`, pero puede Ud. sustituirlo por `g++` puesto que el compilador
-de C++ compila igualmente el código en C (C++ es un superconjunto de C).
+de C++ compila igualmente el código en C (puesto que C++ es un superconjunto de C).
 
-Finalmente escriba un único fichero Makefile que permita compilar y generar los programas ejecutables
-correspondientes a los 4 ejercicios que se proponen en este documento.
+Finalmente escriba un único fichero Makefile (uno único para todos los programas) que permita compilar y generar los programas ejecutables
+correspondientes a todos los ejercicios que se proponen en este documento.
 
 ### Referencias
 * [Guía de Estilo de Google para C++](https://google.github.io/styleguide/cppguide.html)
