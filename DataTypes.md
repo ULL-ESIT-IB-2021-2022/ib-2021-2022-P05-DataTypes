@@ -117,7 +117,7 @@ y ejecutar los comandos necesarios para realizar esa tarea.
 Este primer 
 [Makefile Tutorial](https://makefiletutorial.com/)
 le puede servir como primera toma de contacto con la utilidad make.
-Estudie a continuación las transparencias  
+Estudie a continuación en las transparencias
 [Automation of the Build process: the `make` utility](https://docs.google.com/presentation/d/1W7tgsr5FtCqr5zBIY8UVF3RA4ongBOMgH6kddmf0cGQ/edit?usp=sharing) 
 los fundamentos de la utilidad.
 Por último, el tutorial 
