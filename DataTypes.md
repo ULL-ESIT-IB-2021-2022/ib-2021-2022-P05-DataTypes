@@ -122,15 +122,14 @@ Este primer
 [Makefile Tutorial](https://makefiletutorial.com/)
 le puede servir como primera toma de contacto con la utilidad make.
 Estudie a continuación en las transparencias
-[Automation of the Build process: the `make` utility](https://docs.google.com/presentation/d/1W7tgsr5FtCqr5zBIY8UVF3RA4ongBOMgH6kddmf0cGQ/edit?usp=sharing) 
-los fundamentos de la utilidad.
+[Automation of the Build process: the `make` utility](https://docs.google.com/presentation/d/1W7tgsr5FtCqr5zBIY8UVF3RA4ongBOMgH6kddmf0cGQ/edit?usp=sharing) los fundamentos de la utilidad.
 Por último, el tutorial 
 [A Simple Makefile Tutorial](https://cs.colby.edu/maxwell/courses/tutorials/maketutor/)
 incluye ejemplos simples desarrollados de forma incremental que pueden ayudarle a entender el uso de `make`.
 En ese tutorial se utiliza el compilador `gcc`, pero puede Ud. sustituirlo por `g++` puesto que el compilador
 de C++ compila igualmente el código en C (puesto que C++ es un superconjunto de C).
 
-Finalmente escriba un único fichero Makefile (uno único para todos los programas) que permita compilar y generar los programas ejecutables
+    Finalmente escriba un único fichero Makefile (uno único para todos los programas) que permita compilar y generar los programas ejecutables
 correspondientes a todos los ejercicios que se proponen en este documento.
 
 ### Referencias
